@@ -8,7 +8,8 @@ The Watch
 3) 21/03/2019, _Personal Knowledge Management_, __Corneliu Gaina__, (slides et liens cliquables) : 
 https://docs.google.com/presentation/d/1PL_tXwNLLlkTPb83ZvepTVeRh808kXrUaSFXsgOdfWE/edit?usp=sharing
 
-4)
+4) 24/04/2019 & 25/04/2019, _Mindset of a developer_, __Corneliu Gaina__ & __Estelle Mol__, (slides et liens cliquables) : 
+https://docs.google.com/presentation/d/1UFbrjh98KLliLoZX22KVxOML3_GmIoavskBLFKSd87k/edit?usp=sharing
 
 5)
 
